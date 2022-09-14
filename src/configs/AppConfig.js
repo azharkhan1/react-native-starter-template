@@ -1,0 +1,32 @@
+export default {
+  // font scaling override - RN default is on
+  appDisplayVersion: '1.0.0',
+  allowTextFontScaling: true,
+  allowIQKeyboardManager: true,
+  allowIQKeyboardManagerToolbar: true,
+  testToken: '',
+  gMapPlacesKey: '',
+  bitlyClientID: '',
+  bitlyClientSecret: '',
+  bitlyUsername: '',
+  bitlyPassword: '',
+
+  zendeskAppId: '',
+  zendeskUrl: '',
+  zendeskClientId: '',
+
+  gGeocodingAPIKey: '',
+  googleApiKey: '',
+  googleVisionApiKey: '',
+  gMapAPIKey: '',
+  appDownloadLink: '',
+  imageKey: '',
+  serverChangePass: '',
+  TEAM_ID: '',
+  gDynamicLinksAPIKey: '',
+  dynamicLink: '',
+  iosPackageName: '',
+  androidPackageName: '',
+  merchantIdentifier: '',
+  env: '',
+};
