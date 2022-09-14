@@ -9,10 +9,6 @@ export default function Login() {
   const registerUser = () => dispatch(registerRequest());
   return (
     <View>
-      <Text>
-        Hello {register.name}{' '}
-        {register.isFetching ? 'loading....' : 'not loading'}
-      </Text>
       <Button title="register" onPress={registerUser} />
     </View>
   );

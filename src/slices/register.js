@@ -5,7 +5,6 @@ const initialState = {
   isFetching: false,
   errorMessage: '',
   data: [],
-  name: 'Farrrukh',
 };
 
 const register = createSlice({
